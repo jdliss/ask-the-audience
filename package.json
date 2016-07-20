@@ -1,7 +1,7 @@
 {
   "name": "ask-the-audience",
   "version": "1.0.0",
-  "description": "",
+  "description": "ask ye olde onlookers",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

@@ -23,5 +23,4 @@ for (var i = 0; i < buttons.length; i++) {
 socket.on('voteCount', function (votes) {
   var text = "A: " + votes.A + ",  " + "B: " + votes.B + ",  " + "C: " + votes.C + ",  " + "D: " + votes.D
   document.getElementById('vote').innerHTML = "<br>you just voted: " + text;
-  debugger;
 });
